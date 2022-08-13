@@ -1,0 +1,4 @@
+thing coyote action crucial grass nerve broccoli various honey still dynamic stadium
+
+
+Set-ExecutionPolicy Unrestricted
